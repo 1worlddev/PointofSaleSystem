@@ -42,8 +42,6 @@ Features:
     - Logged In Employee will be saved in logs and their name will be printed in invoices.
     - Most Buttons Can Only be Accessed By The Master Key.
 
-Problems:
-    - MAJOR PROBLEM THROUGHOUT THE PROGRAM WHERE THE INVENTORY/CUSTOMER/EMPLOYEE DATABASES DO NOT REFRESH INSTANTANIOUSLY EVEN AFTER CHANGES HAVE BEEN MADE. PROPER STATEMENTS HAVE BEEN ADDED TO REPOPULATE THE TABLES BUT THEY REFUSE TO REFRESH. MAYBE A PYQT PROBLEM OR WE ARE MISSING SOMETHING.
-
 Credit:
 1) NEGASOL: Network & Gateway Solutions
+2) 1World.Dev
